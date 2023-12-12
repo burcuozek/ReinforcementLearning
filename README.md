@@ -7,7 +7,7 @@ Key components of reinforcement learning:
 
 **Environment:** The external system with which the agent interacts. It responds to the actions taken by the agent and provides feedback in the form of rewards or penalties.
 
-**State: **A representation of the current situation or configuration of the environment. The state provides information to the agent about its current condition.
+**State:** A representation of the current situation or configuration of the environment. The state provides information to the agent about its current condition.
 
 **Action:** The set of possible moves or decisions that the agent can take in a given state.
 
